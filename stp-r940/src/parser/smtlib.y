@@ -61,7 +61,10 @@
 #define YYERROR_VERBOSE 1
 #define YY_EXIT_FAILURE -1
 #define YYPARSE_PARAM AssertsQuery
+   int yyerror(void* AssertsQuery, const char* s) { return yyerror(s); } 
   %}
+
+%parse-param {void* AssertsQuery}
 
 %union {  
   // FIXME: Why is this not an UNSIGNED int?
