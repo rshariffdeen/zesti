@@ -50,6 +50,7 @@ static void runAtExitHandlers() {
 #if defined(__linux__)
 #if defined(HAVE_SYS_STAT_H)
 #include <sys/stat.h>
+#include <unistd.h>
 #endif
 #include <fcntl.h>
 /* stat functions are redirecting to __xstat with a version number.  On x86-64 
