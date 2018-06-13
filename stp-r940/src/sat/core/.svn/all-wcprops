@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/stp-fast-prover/code/!svn/ver/892/trunk/stp/src/sat/core
+END
+dlmalloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/stp-fast-prover/code/!svn/ver/838/trunk/stp/src/sat/core/dlmalloc.c
+END
+Solver.C
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/stp-fast-prover/code/!svn/ver/892/trunk/stp/src/sat/core/Solver.C
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/stp-fast-prover/code/!svn/ver/837/trunk/stp/src/sat/core/Makefile
+END
+dlmalloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/stp-fast-prover/code/!svn/ver/838/trunk/stp/src/sat/core/dlmalloc.h
+END
+Solver.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/stp-fast-prover/code/!svn/ver/556/trunk/stp/src/sat/core/Solver.h
+END
+SolverTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/stp-fast-prover/code/!svn/ver/837/trunk/stp/src/sat/core/SolverTypes.h
+END

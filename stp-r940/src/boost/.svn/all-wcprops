@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/stp-fast-prover/code/!svn/ver/915/trunk/stp/src/boost
+END
+config.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/stp-fast-prover/code/!svn/ver/915/trunk/stp/src/boost/config.hpp
+END
+static_assert.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/stp-fast-prover/code/!svn/ver/915/trunk/stp/src/boost/static_assert.hpp
+END

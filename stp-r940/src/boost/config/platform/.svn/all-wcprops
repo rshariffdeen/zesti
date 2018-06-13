@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/stp-fast-prover/code/!svn/ver/915/trunk/stp/src/boost/config/platform
+END
+macos.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/stp-fast-prover/code/!svn/ver/915/trunk/stp/src/boost/config/platform/macos.hpp
+END
+symbian.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/stp-fast-prover/code/!svn/ver/915/trunk/stp/src/boost/config/platform/symbian.hpp
+END
+win32.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/stp-fast-prover/code/!svn/ver/915/trunk/stp/src/boost/config/platform/win32.hpp
+END
+vxworks.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/stp-fast-prover/code/!svn/ver/915/trunk/stp/src/boost/config/platform/vxworks.hpp
+END
+hpux.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/stp-fast-prover/code/!svn/ver/915/trunk/stp/src/boost/config/platform/hpux.hpp
+END
+qnxnto.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/stp-fast-prover/code/!svn/ver/915/trunk/stp/src/boost/config/platform/qnxnto.hpp
+END
+beos.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/stp-fast-prover/code/!svn/ver/915/trunk/stp/src/boost/config/platform/beos.hpp
+END
+bsd.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/stp-fast-prover/code/!svn/ver/915/trunk/stp/src/boost/config/platform/bsd.hpp
+END
+irix.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/stp-fast-prover/code/!svn/ver/915/trunk/stp/src/boost/config/platform/irix.hpp
+END
+solaris.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/stp-fast-prover/code/!svn/ver/915/trunk/stp/src/boost/config/platform/solaris.hpp
+END
+linux.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/stp-fast-prover/code/!svn/ver/915/trunk/stp/src/boost/config/platform/linux.hpp
+END
+amigaos.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/stp-fast-prover/code/!svn/ver/915/trunk/stp/src/boost/config/platform/amigaos.hpp
+END
+cygwin.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/stp-fast-prover/code/!svn/ver/915/trunk/stp/src/boost/config/platform/cygwin.hpp
+END
+aix.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/stp-fast-prover/code/!svn/ver/915/trunk/stp/src/boost/config/platform/aix.hpp
+END

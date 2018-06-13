@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/stp-fast-prover/code/!svn/ver/934/trunk/stp/scripts
+END
+Makefile.common
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/stp-fast-prover/code/!svn/ver/930/trunk/stp/scripts/Makefile.common
+END
+emacs-format.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/stp-fast-prover/code/!svn/ver/302/trunk/stp/scripts/emacs-format.sh
+END
+emacs-format-file
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/stp-fast-prover/code/!svn/ver/174/trunk/stp/scripts/emacs-format-file
+END
+liblinks.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/stp-fast-prover/code/!svn/ver/132/trunk/stp/scripts/liblinks.sh
+END
+run_tests.pl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/stp-fast-prover/code/!svn/ver/895/trunk/stp/scripts/run_tests.pl
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/stp-fast-prover/code/!svn/ver/670/trunk/stp/scripts/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/stp-fast-prover/code/!svn/ver/934/trunk/stp/scripts/Makefile.in
+END

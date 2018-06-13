@@ -1,0 +1,70 @@
+10
+
+dir
+940
+https://svn.code.sf.net/p/stp-fast-prover/code/trunk/stp/src
+https://svn.code.sf.net/p/stp-fast-prover/code
+
+
+
+2010-07-08T17:12:36.611850Z
+940
+petercol
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e59a4935-1847-0410-ae03-e826735625c1
+
+absrefine_counterexample
+dir
+
+ocaml-wrapper
+dir
+
+extlib-abc
+dir
+
+parser
+dir
+
+STPManager
+dir
+
+c_interface
+dir
+
+extlib-constbv
+dir
+
+printer
+dir
+
+simplifier
+dir
+
+main
+dir
+
+boost
+dir
+
+AST
+dir
+
+sat
+dir
+
+to-sat
+dir
+

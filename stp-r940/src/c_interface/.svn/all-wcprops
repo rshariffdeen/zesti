@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/stp-fast-prover/code/!svn/ver/940/trunk/stp/src/c_interface
+END
+fdstream.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/stp-fast-prover/code/!svn/ver/174/trunk/stp/src/c_interface/fdstream.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/stp-fast-prover/code/!svn/ver/668/trunk/stp/src/c_interface/Makefile
+END
+c_interface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/stp-fast-prover/code/!svn/ver/940/trunk/stp/src/c_interface/c_interface.cpp
+END
+c_interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/stp-fast-prover/code/!svn/ver/940/trunk/stp/src/c_interface/c_interface.h
+END

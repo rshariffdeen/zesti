@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/stp-fast-prover/code/!svn/ver/128/trunk/stp/src/ocaml-wrapper
+END
+OCamlMakefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/stp-fast-prover/code/!svn/ver/128/trunk/stp/src/ocaml-wrapper/OCamlMakefile
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/stp-fast-prover/code/!svn/ver/128/trunk/stp/src/ocaml-wrapper/Makefile
+END
+stpvc.mli
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/stp-fast-prover/code/!svn/ver/128/trunk/stp/src/ocaml-wrapper/stpvc.mli
+END
+libstp_regerrorhandler.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/stp-fast-prover/code/!svn/ver/128/trunk/stp/src/ocaml-wrapper/libstp_regerrorhandler.c
+END
+libstp.idl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/stp-fast-prover/code/!svn/ver/128/trunk/stp/src/ocaml-wrapper/libstp.idl
+END
+stpvc.ml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/stp-fast-prover/code/!svn/ver/128/trunk/stp/src/ocaml-wrapper/stpvc.ml
+END
+COPYRIGHT-NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/stp-fast-prover/code/!svn/ver/128/trunk/stp/src/ocaml-wrapper/COPYRIGHT-NOTICE
+END

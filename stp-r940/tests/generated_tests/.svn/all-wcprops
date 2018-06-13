@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/stp-fast-prover/code/!svn/ver/846/trunk/stp/tests/generated_tests
+END
+form_32.var_32.bits_32.cvc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/stp-fast-prover/code/!svn/ver/107/trunk/stp/tests/generated_tests/form_32.var_32.bits_32.cvc
+END
+form_32.var_16.bits_32.cvc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/stp-fast-prover/code/!svn/ver/107/trunk/stp/tests/generated_tests/form_32.var_16.bits_32.cvc
+END
+form_16.var_32.bits_32.cvc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/stp-fast-prover/code/!svn/ver/107/trunk/stp/tests/generated_tests/form_16.var_32.bits_32.cvc
+END
+testgen.pl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/stp-fast-prover/code/!svn/ver/107/trunk/stp/tests/generated_tests/testgen.pl
+END
+extract.pl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/stp-fast-prover/code/!svn/ver/107/trunk/stp/tests/generated_tests/extract.pl
+END
+form_64.var_32.bits_32.cvc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/stp-fast-prover/code/!svn/ver/107/trunk/stp/tests/generated_tests/form_64.var_32.bits_32.cvc
+END
+form_32.var_64.bits_32.cvc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/stp-fast-prover/code/!svn/ver/107/trunk/stp/tests/generated_tests/form_32.var_64.bits_32.cvc
+END
+mulDivRem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/stp-fast-prover/code/!svn/ver/230/trunk/stp/tests/generated_tests/mulDivRem.cpp
+END
+form_4.var_32.bits_32.cvc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/stp-fast-prover/code/!svn/ver/107/trunk/stp/tests/generated_tests/form_4.var_32.bits_32.cvc
+END
+form_32.var_4.bits_32.cvc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/stp-fast-prover/code/!svn/ver/107/trunk/stp/tests/generated_tests/form_32.var_4.bits_32.cvc
+END
+g.cvc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/stp-fast-prover/code/!svn/ver/107/trunk/stp/tests/generated_tests/g.cvc
+END
+runMulDivRem.sh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/stp-fast-prover/code/!svn/ver/230/trunk/stp/tests/generated_tests/runMulDivRem.sh
+END
+form_8.var_32.bits_32.cvc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/stp-fast-prover/code/!svn/ver/107/trunk/stp/tests/generated_tests/form_8.var_32.bits_32.cvc
+END
+form_32.var_8.bits_32.cvc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/stp-fast-prover/code/!svn/ver/107/trunk/stp/tests/generated_tests/form_32.var_8.bits_32.cvc
+END
+ArrayGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/stp-fast-prover/code/!svn/ver/846/trunk/stp/tests/generated_tests/ArrayGenerator.java
+END
+gen2.cvc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/stp-fast-prover/code/!svn/ver/107/trunk/stp/tests/generated_tests/gen2.cvc
+END
+form_32.var_128.bits_32.cvc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/stp-fast-prover/code/!svn/ver/107/trunk/stp/tests/generated_tests/form_32.var_128.bits_32.cvc
+END
+form_128.var_32.bits_32.cvc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/stp-fast-prover/code/!svn/ver/107/trunk/stp/tests/generated_tests/form_128.var_32.bits_32.cvc
+END
+form_32.var_256.bits_32.cvc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/stp-fast-prover/code/!svn/ver/107/trunk/stp/tests/generated_tests/form_32.var_256.bits_32.cvc
+END
+form_256.var_32.bits_32.cvc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/stp-fast-prover/code/!svn/ver/107/trunk/stp/tests/generated_tests/form_256.var_32.bits_32.cvc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/stp-fast-prover/code/!svn/ver/230/trunk/stp/tests/generated_tests/Makefile
+END
+run-experiments.pl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/stp-fast-prover/code/!svn/ver/107/trunk/stp/tests/generated_tests/run-experiments.pl
+END

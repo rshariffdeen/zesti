@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/stp-fast-prover/code/!svn/ver/653/trunk/stp/tests/crypto-tests
+END
+rsa_97_bit_prime_1s_only.stp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/stp-fast-prover/code/!svn/ver/653/trunk/stp/tests/crypto-tests/rsa_97_bit_prime_1s_only.stp
+END
+tea_four_round_two_var_tea.stp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/stp-fast-prover/code/!svn/ver/653/trunk/stp/tests/crypto-tests/tea_four_round_two_var_tea.stp
+END
+tea_three_round_two_var.stp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/stp-fast-prover/code/!svn/ver/653/trunk/stp/tests/crypto-tests/tea_three_round_two_var.stp
+END
+tea_three_round_two_var_half_key.stp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/stp-fast-prover/code/!svn/ver/653/trunk/stp/tests/crypto-tests/tea_three_round_two_var_half_key.stp
+END
+tea_two_round_two_var.stp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/stp-fast-prover/code/!svn/ver/653/trunk/stp/tests/crypto-tests/tea_two_round_two_var.stp
+END
+tea_four_round_two_var_half_key.stp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/stp-fast-prover/code/!svn/ver/653/trunk/stp/tests/crypto-tests/tea_four_round_two_var_half_key.stp
+END
+tea.pl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/stp-fast-prover/code/!svn/ver/650/trunk/stp/tests/crypto-tests/tea.pl
+END
+tea_three_round_one_var.stp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/stp-fast-prover/code/!svn/ver/653/trunk/stp/tests/crypto-tests/tea_three_round_one_var.stp
+END
+t4_nadia_n1.stp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/stp-fast-prover/code/!svn/ver/456/trunk/stp/tests/crypto-tests/t4_nadia_n1.stp
+END
+t4_nadia.stp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/stp-fast-prover/code/!svn/ver/434/trunk/stp/tests/crypto-tests/t4_nadia.stp
+END
+tea_four_round_one_var.stp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/stp-fast-prover/code/!svn/ver/653/trunk/stp/tests/crypto-tests/tea_four_round_one_var.stp
+END
+1024_bit_prime_1s_only.stp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/stp-fast-prover/code/!svn/ver/650/trunk/stp/tests/crypto-tests/1024_bit_prime_1s_only.stp
+END
+tea_four_round_one_var_half_key.stp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/stp-fast-prover/code/!svn/ver/653/trunk/stp/tests/crypto-tests/tea_four_round_one_var_half_key.stp
+END
+t3.stp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/stp-fast-prover/code/!svn/ver/434/trunk/stp/tests/crypto-tests/t3.stp
+END
+t4.stp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/stp-fast-prover/code/!svn/ver/436/trunk/stp/tests/crypto-tests/t4.stp
+END
+t5.stp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/stp-fast-prover/code/!svn/ver/456/trunk/stp/tests/crypto-tests/t5.stp
+END
+rsa_1024_bit_prime_1s_only.stp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/stp-fast-prover/code/!svn/ver/653/trunk/stp/tests/crypto-tests/rsa_1024_bit_prime_1s_only.stp
+END
+t3_flat.stp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/stp-fast-prover/code/!svn/ver/467/trunk/stp/tests/crypto-tests/t3_flat.stp
+END
+t4_flat.stp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/stp-fast-prover/code/!svn/ver/436/trunk/stp/tests/crypto-tests/t4_flat.stp
+END
+rsa_97_bit_prime.stp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/stp-fast-prover/code/!svn/ver/653/trunk/stp/tests/crypto-tests/rsa_97_bit_prime.stp
+END

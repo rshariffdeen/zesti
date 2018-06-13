@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/stp-fast-prover/code/!svn/ver/884/trunk/stp/src/printer
+END
+GDLPrinter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/stp-fast-prover/code/!svn/ver/642/trunk/stp/src/printer/GDLPrinter.cpp
+END
+dotPrinter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/stp-fast-prover/code/!svn/ver/319/trunk/stp/src/printer/dotPrinter.cpp
+END
+AssortedPrinters.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/stp-fast-prover/code/!svn/ver/642/trunk/stp/src/printer/AssortedPrinters.cpp
+END
+LispPrinter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/stp-fast-prover/code/!svn/ver/288/trunk/stp/src/printer/LispPrinter.cpp
+END
+printers.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/stp-fast-prover/code/!svn/ver/850/trunk/stp/src/printer/printers.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/stp-fast-prover/code/!svn/ver/668/trunk/stp/src/printer/Makefile
+END
+SMTLIBPrinter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/stp-fast-prover/code/!svn/ver/884/trunk/stp/src/printer/SMTLIBPrinter.cpp
+END
+PLPrinter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/stp-fast-prover/code/!svn/ver/832/trunk/stp/src/printer/PLPrinter.cpp
+END
+SMTLIB1Printer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/stp-fast-prover/code/!svn/ver/884/trunk/stp/src/printer/SMTLIB1Printer.cpp
+END
+AssortedPrinters.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/stp-fast-prover/code/!svn/ver/635/trunk/stp/src/printer/AssortedPrinters.h
+END
+SMTLIB2Printer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/stp-fast-prover/code/!svn/ver/884/trunk/stp/src/printer/SMTLIB2Printer.cpp
+END
+BenchPrinter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/stp-fast-prover/code/!svn/ver/617/trunk/stp/src/printer/BenchPrinter.cpp
+END
+SMTLIBPrinter.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/stp-fast-prover/code/!svn/ver/783/trunk/stp/src/printer/SMTLIBPrinter.h
+END
+CPrinter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/stp-fast-prover/code/!svn/ver/832/trunk/stp/src/printer/CPrinter.cpp
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/aig/dar
+END
+darResub.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/aig/dar/darResub.c
+END
+darRefact.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/aig/dar/darRefact.c
+END
+darScript.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/aig/dar/darScript.c
+END
+darBalance.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/aig/dar/darBalance.c
+END
+darLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/aig/dar/darLib.c
+END
+darCore.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/aig/dar/darCore.c
+END
+darData.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/aig/dar/darData.c
+END
+darPrec.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/aig/dar/darPrec.c
+END
+module.make
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/aig/dar/module.make
+END
+darCut.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/aig/dar/darCut.c
+END
+darMan.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/aig/dar/darMan.c
+END
+dar_.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/aig/dar/dar_.c
+END

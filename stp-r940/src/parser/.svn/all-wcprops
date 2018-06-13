@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/stp-fast-prover/code/!svn/ver/939/trunk/stp/src/parser
+END
+LetMgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/stp-fast-prover/code/!svn/ver/775/trunk/stp/src/parser/LetMgr.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/stp-fast-prover/code/!svn/ver/779/trunk/stp/src/parser/Makefile
+END
+LetMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/stp-fast-prover/code/!svn/ver/701/trunk/stp/src/parser/LetMgr.h
+END
+smtlib.lex
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/stp-fast-prover/code/!svn/ver/764/trunk/stp/src/parser/smtlib.lex
+END
+smtlib.y
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/stp-fast-prover/code/!svn/ver/939/trunk/stp/src/parser/smtlib.y
+END
+CVC.lex
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/stp-fast-prover/code/!svn/ver/662/trunk/stp/src/parser/CVC.lex
+END
+CVC.y
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/stp-fast-prover/code/!svn/ver/768/trunk/stp/src/parser/CVC.y
+END
+parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/stp-fast-prover/code/!svn/ver/764/trunk/stp/src/parser/parser.h
+END
+ParserInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/stp-fast-prover/code/!svn/ver/764/trunk/stp/src/parser/ParserInterface.h
+END
+smtlib2.lex
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/stp-fast-prover/code/!svn/ver/916/trunk/stp/src/parser/smtlib2.lex
+END
+smtlib2.y
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/stp-fast-prover/code/!svn/ver/852/trunk/stp/src/parser/smtlib2.y
+END

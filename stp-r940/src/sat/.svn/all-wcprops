@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/stp-fast-prover/code/!svn/ver/925/trunk/stp/src/sat
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/stp-fast-prover/code/!svn/ver/359/trunk/stp/src/sat/LICENSE
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/stp-fast-prover/code/!svn/ver/837/trunk/stp/src/sat/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/stp-fast-prover/code/!svn/ver/359/trunk/stp/src/sat/README
+END
+sat.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/stp-fast-prover/code/!svn/ver/685/trunk/stp/src/sat/sat.h
+END

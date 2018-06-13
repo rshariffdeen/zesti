@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/stp-fast-prover/code/!svn/ver/668/trunk/stp/src/extlib-abc
+END
+leaks.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/leaks.h
+END
+copyright.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/copyright.txt
+END
+aig.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/aig.h
+END
+vecPtr.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/vecPtr.h
+END
+vecStr.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/vecStr.h
+END
+dar.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/dar.h
+END
+cnf.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/cnf.h
+END
+vecVec.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/vecVec.h
+END
+vec.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/vec.h
+END
+darInt.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/darInt.h
+END
+vecFlt.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/vecFlt.h
+END
+cnf_short.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/cnf_short.h
+END
+vecAtt.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/vecAtt.h
+END
+kit.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/kit.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/stp-fast-prover/code/!svn/ver/668/trunk/stp/src/extlib-abc/Makefile
+END
+vecInt.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/vecInt.h
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/stp-fast-prover/code/!svn/ver/935/trunk/stp/src/simplifier/constantBitP
+END
+ConstantBitP_Utility.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/stp-fast-prover/code/!svn/ver/932/trunk/stp/src/simplifier/constantBitP/ConstantBitP_Utility.h
+END
+ConstantBitPropagation.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/stp-fast-prover/code/!svn/ver/935/trunk/stp/src/simplifier/constantBitP/ConstantBitPropagation.h
+END
+FixedBits.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/stp-fast-prover/code/!svn/ver/930/trunk/stp/src/simplifier/constantBitP/FixedBits.cpp
+END
+MultiplicationStats.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/stp-fast-prover/code/!svn/ver/932/trunk/stp/src/simplifier/constantBitP/MultiplicationStats.h
+END
+WorkList.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/stp-fast-prover/code/!svn/ver/932/trunk/stp/src/simplifier/constantBitP/WorkList.h
+END
+FixedBits.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/stp-fast-prover/code/!svn/ver/930/trunk/stp/src/simplifier/constantBitP/FixedBits.h
+END
+ConstantBitP_Utility.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/stp-fast-prover/code/!svn/ver/923/trunk/stp/src/simplifier/constantBitP/ConstantBitP_Utility.cpp
+END
+Dependencies.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/stp-fast-prover/code/!svn/ver/923/trunk/stp/src/simplifier/constantBitP/Dependencies.h
+END
+ConstantBitPropagation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/stp-fast-prover/code/!svn/ver/935/trunk/stp/src/simplifier/constantBitP/ConstantBitPropagation.cpp
+END
+NodeToFixedBitsMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/stp-fast-prover/code/!svn/ver/932/trunk/stp/src/simplifier/constantBitP/NodeToFixedBitsMap.h
+END

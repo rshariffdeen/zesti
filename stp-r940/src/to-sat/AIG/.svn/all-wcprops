@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/stp-fast-prover/code/!svn/ver/936/trunk/stp/src/to-sat/AIG
+END
+ToSATAIG.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/stp-fast-prover/code/!svn/ver/936/trunk/stp/src/to-sat/AIG/ToSATAIG.cpp
+END
+BBNodeAIG.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/stp-fast-prover/code/!svn/ver/913/trunk/stp/src/to-sat/AIG/BBNodeAIG.h
+END
+ToSATAIG.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/stp-fast-prover/code/!svn/ver/932/trunk/stp/src/to-sat/AIG/ToSATAIG.h
+END
+BBNodeManagerAIG.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/stp-fast-prover/code/!svn/ver/919/trunk/stp/src/to-sat/AIG/BBNodeManagerAIG.h
+END

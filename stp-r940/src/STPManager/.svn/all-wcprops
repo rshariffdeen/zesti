@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/stp-fast-prover/code/!svn/ver/938/trunk/stp/src/STPManager
+END
+STPManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/stp-fast-prover/code/!svn/ver/886/trunk/stp/src/STPManager/STPManager.cpp
+END
+DifficultyScore.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/stp-fast-prover/code/!svn/ver/885/trunk/stp/src/STPManager/DifficultyScore.h
+END
+STP.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/stp-fast-prover/code/!svn/ver/938/trunk/stp/src/STPManager/STP.cpp
+END
+STPManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/stp-fast-prover/code/!svn/ver/886/trunk/stp/src/STPManager/STPManager.h
+END
+STP.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/stp-fast-prover/code/!svn/ver/662/trunk/stp/src/STPManager/STP.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/stp-fast-prover/code/!svn/ver/932/trunk/stp/src/STPManager/Makefile
+END
+UserDefinedFlags.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/stp-fast-prover/code/!svn/ver/930/trunk/stp/src/STPManager/UserDefinedFlags.h
+END

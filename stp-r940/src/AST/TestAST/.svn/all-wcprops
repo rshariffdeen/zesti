@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/stp-fast-prover/code/!svn/ver/206/trunk/stp/src/AST/TestAST
+END
+bbtest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/stp-fast-prover/code/!svn/ver/192/trunk/stp/src/AST/TestAST/bbtest.cpp
+END
+cnftest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/stp-fast-prover/code/!svn/ver/192/trunk/stp/src/AST/TestAST/cnftest.cpp
+END
+asttest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/stp-fast-prover/code/!svn/ver/206/trunk/stp/src/AST/TestAST/asttest.cpp
+END

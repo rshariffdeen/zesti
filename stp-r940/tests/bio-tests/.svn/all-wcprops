@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/stp-fast-prover/code/!svn/ver/460/trunk/stp/tests/bio-tests
+END
+4-alpha-helices-3-rungs-macros.cvc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/stp-fast-prover/code/!svn/ver/119/trunk/stp/tests/bio-tests/4-alpha-helices-3-rungs-macros.cvc
+END
+hard-sat-bio.cvc.tar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/stp-fast-prover/code/!svn/ver/460/trunk/stp/tests/bio-tests/hard-sat-bio.cvc.tar.gz
+END
+easy-sat-bio.cvc.tar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/stp-fast-prover/code/!svn/ver/460/trunk/stp/tests/bio-tests/easy-sat-bio.cvc.tar.gz
+END
+rna2.cvc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/stp-fast-prover/code/!svn/ver/139/trunk/stp/tests/bio-tests/rna2.cvc
+END
+easy-unsat-bio.cvc.tar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/stp-fast-prover/code/!svn/ver/460/trunk/stp/tests/bio-tests/easy-unsat-bio.cvc.tar.gz
+END
+4-alpha-helices-2-rungs.cvc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/stp-fast-prover/code/!svn/ver/106/trunk/stp/tests/bio-tests/4-alpha-helices-2-rungs.cvc
+END
+4-alpha-helices-3-rungs.cvc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/stp-fast-prover/code/!svn/ver/113/trunk/stp/tests/bio-tests/4-alpha-helices-3-rungs.cvc
+END
+4-alpha-helices-2-rungs-more-bits-simplified.cvc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/stp-fast-prover/code/!svn/ver/106/trunk/stp/tests/bio-tests/4-alpha-helices-2-rungs-more-bits-simplified.cvc
+END

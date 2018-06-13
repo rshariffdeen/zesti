@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/stp-fast-prover/code/!svn/ver/930/trunk/stp/src/AST
+END
+ArrayTransformer.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/stp-fast-prover/code/!svn/ver/831/trunk/stp/src/AST/ArrayTransformer.h
+END
+RunTimes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/stp-fast-prover/code/!svn/ver/926/trunk/stp/src/AST/RunTimes.cpp
+END
+ASTInterior.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/stp-fast-prover/code/!svn/ver/581/trunk/stp/src/AST/ASTInterior.h
+END
+UsefulDefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/stp-fast-prover/code/!svn/ver/669/trunk/stp/src/AST/UsefulDefs.h
+END
+RunTimes.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/stp-fast-prover/code/!svn/ver/926/trunk/stp/src/AST/RunTimes.h
+END
+ASTSymbol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/stp-fast-prover/code/!svn/ver/386/trunk/stp/src/AST/ASTSymbol.cpp
+END
+ASTSymbol.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/stp-fast-prover/code/!svn/ver/340/trunk/stp/src/AST/ASTSymbol.h
+END
+ASTKind.kinds
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/stp-fast-prover/code/!svn/ver/623/trunk/stp/src/AST/ASTKind.kinds
+END
+ASTUtil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/stp-fast-prover/code/!svn/ver/303/trunk/stp/src/AST/ASTUtil.cpp
+END
+ASTBVConst.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/stp-fast-prover/code/!svn/ver/386/trunk/stp/src/AST/ASTBVConst.cpp
+END
+ASTInternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/stp-fast-prover/code/!svn/ver/302/trunk/stp/src/AST/ASTInternal.h
+END
+ASTBVConst.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/stp-fast-prover/code/!svn/ver/302/trunk/stp/src/AST/ASTBVConst.h
+END
+genkinds.pl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/stp-fast-prover/code/!svn/ver/581/trunk/stp/src/AST/genkinds.pl
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/stp-fast-prover/code/!svn/ver/676/trunk/stp/src/AST/Makefile
+END
+AST.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/stp-fast-prover/code/!svn/ver/901/trunk/stp/src/AST/AST.h
+END
+ASTNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/stp-fast-prover/code/!svn/ver/905/trunk/stp/src/AST/ASTNode.cpp
+END
+ArrayTransformer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/stp-fast-prover/code/!svn/ver/889/trunk/stp/src/AST/ArrayTransformer.cpp
+END
+STLport_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/stp-fast-prover/code/!svn/ver/107/trunk/stp/src/AST/STLport_config.h
+END
+ASTNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/stp-fast-prover/code/!svn/ver/886/trunk/stp/src/AST/ASTNode.h
+END
+ASTmisc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/stp-fast-prover/code/!svn/ver/930/trunk/stp/src/AST/ASTmisc.cpp
+END
+ASTInterior.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/stp-fast-prover/code/!svn/ver/386/trunk/stp/src/AST/ASTInterior.cpp
+END

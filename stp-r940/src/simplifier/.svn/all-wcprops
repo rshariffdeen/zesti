@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/stp-fast-prover/code/!svn/ver/939/trunk/stp/src/simplifier
+END
+bvsolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/stp-fast-prover/code/!svn/ver/901/trunk/stp/src/simplifier/bvsolver.h
+END
+simplifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/stp-fast-prover/code/!svn/ver/885/trunk/stp/src/simplifier/simplifier.h
+END
+SubstitutionMap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/stp-fast-prover/code/!svn/ver/932/trunk/stp/src/simplifier/SubstitutionMap.cpp
+END
+CountOfSymbols.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/stp-fast-prover/code/!svn/ver/859/trunk/stp/src/simplifier/CountOfSymbols.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/stp-fast-prover/code/!svn/ver/923/trunk/stp/src/simplifier/Makefile
+END
+Symbols.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/stp-fast-prover/code/!svn/ver/872/trunk/stp/src/simplifier/Symbols.h
+END
+consteval.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/stp-fast-prover/code/!svn/ver/939/trunk/stp/src/simplifier/consteval.cpp
+END
+SubstitutionMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/stp-fast-prover/code/!svn/ver/932/trunk/stp/src/simplifier/SubstitutionMap.h
+END
+bvsolver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/stp-fast-prover/code/!svn/ver/901/trunk/stp/src/simplifier/bvsolver.cpp
+END
+simplifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/stp-fast-prover/code/!svn/ver/935/trunk/stp/src/simplifier/simplifier.cpp
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/stp-fast-prover/code/!svn/ver/668/trunk/stp/src/extlib-constbv
+END
+constantbv.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/stp-fast-prover/code/!svn/ver/214/trunk/stp/src/extlib-constbv/constantbv.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/stp-fast-prover/code/!svn/ver/668/trunk/stp/src/extlib-constbv/Makefile
+END
+constantbv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/stp-fast-prover/code/!svn/ver/302/trunk/stp/src/extlib-constbv/constantbv.cpp
+END

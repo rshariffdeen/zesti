@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/aig/aig
+END
+aigTable.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/aig/aig/aigTable.c
+END
+aigTiming.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/aig/aig/aigTiming.c
+END
+aigSeq.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/aig/aig/aigSeq.c
+END
+aigRet.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/aig/aig/aigRet.c
+END
+aigFanout.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/aig/aig/aigFanout.c
+END
+aigWin.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/aig/aig/aigWin.c
+END
+aigTime.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/aig/aig/aigTime.c
+END
+aigOper.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/aig/aig/aigOper.c
+END
+aigPart.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/aig/aig/aigPart.c
+END
+aigTruth.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/aig/aig/aigTruth.c
+END
+aigRepr.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/aig/aig/aigRepr.c
+END
+aigObj.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/aig/aig/aigObj.c
+END
+aigOrder.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/aig/aig/aigOrder.c
+END
+aigMffc.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/aig/aig/aigMffc.c
+END
+aigMan.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/aig/aig/aigMan.c
+END
+aigDfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/aig/aig/aigDfs.c
+END
+aigTsim.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/aig/aig/aigTsim.c
+END
+aigCheck.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/aig/aig/aigCheck.c
+END
+aigUtil.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/aig/aig/aigUtil.c
+END
+aigMem.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/aig/aig/aigMem.c
+END
+aig_.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/aig/aig/aig_.c
+END
+aigShow.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/aig/aig/aigShow.c
+END
+aigScl.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/aig/aig/aigScl.c
+END

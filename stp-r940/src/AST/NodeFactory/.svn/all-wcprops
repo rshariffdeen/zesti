@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/stp-fast-prover/code/!svn/ver/898/trunk/stp/src/AST/NodeFactory
+END
+TypeChecker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/stp-fast-prover/code/!svn/ver/581/trunk/stp/src/AST/NodeFactory/TypeChecker.cpp
+END
+SimplifyingNodeFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/stp-fast-prover/code/!svn/ver/801/trunk/stp/src/AST/NodeFactory/SimplifyingNodeFactory.cpp
+END
+TypeChecker.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/stp-fast-prover/code/!svn/ver/581/trunk/stp/src/AST/NodeFactory/TypeChecker.h
+END
+NodeFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/stp-fast-prover/code/!svn/ver/581/trunk/stp/src/AST/NodeFactory/NodeFactory.cpp
+END
+SimplifyingNodeFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/stp-fast-prover/code/!svn/ver/801/trunk/stp/src/AST/NodeFactory/SimplifyingNodeFactory.h
+END
+HashingNodeFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/stp-fast-prover/code/!svn/ver/898/trunk/stp/src/AST/NodeFactory/HashingNodeFactory.cpp
+END
+NodeFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/stp-fast-prover/code/!svn/ver/581/trunk/stp/src/AST/NodeFactory/NodeFactory.h
+END
+HashingNodeFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/stp-fast-prover/code/!svn/ver/581/trunk/stp/src/AST/NodeFactory/HashingNodeFactory.h
+END

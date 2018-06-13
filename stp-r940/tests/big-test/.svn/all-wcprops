@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/stp-fast-prover/code/!svn/ver/877/trunk/stp/tests/big-test
+END
+dsa_chop_allopt.stp.cvc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/stp-fast-prover/code/!svn/ver/877/trunk/stp/tests/big-test/dsa_chop_allopt.stp.cvc
+END
+dsa_chop_noopt.stp.cvc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/stp-fast-prover/code/!svn/ver/875/trunk/stp/tests/big-test/dsa_chop_noopt.stp.cvc
+END
+dsa_chop_noopt-nossa.stp.cvc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/stp-fast-prover/code/!svn/ver/875/trunk/stp/tests/big-test/dsa_chop_noopt-nossa.stp.cvc
+END
+dsa_chop_noopt-ssa.stp.cvc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/stp-fast-prover/code/!svn/ver/875/trunk/stp/tests/big-test/dsa_chop_noopt-ssa.stp.cvc
+END
+dsa_chop_dc.stp.cvc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/stp-fast-prover/code/!svn/ver/875/trunk/stp/tests/big-test/dsa_chop_dc.stp.cvc
+END

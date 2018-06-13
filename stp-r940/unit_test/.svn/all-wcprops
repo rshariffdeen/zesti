@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/stp-fast-prover/code/!svn/ver/937/trunk/stp/unit_test
+END
+bvor.smt2
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/stp-fast-prover/code/!svn/ver/846/trunk/stp/unit_test/bvor.smt2
+END
+sim.smt2
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/stp-fast-prover/code/!svn/ver/889/trunk/stp/unit_test/sim.smt2
+END
+xor.smt2
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/stp-fast-prover/code/!svn/ver/900/trunk/stp/unit_test/xor.smt2
+END
+bvand.smt2
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/stp-fast-prover/code/!svn/ver/846/trunk/stp/unit_test/bvand.smt2
+END
+xor2.smt2
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/stp-fast-prover/code/!svn/ver/901/trunk/stp/unit_test/xor2.smt2
+END
+bvand2.smt2
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/stp-fast-prover/code/!svn/ver/846/trunk/stp/unit_test/bvand2.smt2
+END
+bvxor.smt2
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/stp-fast-prover/code/!svn/ver/846/trunk/stp/unit_test/bvxor.smt2
+END
+unit_test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/stp-fast-prover/code/!svn/ver/937/trunk/stp/unit_test/unit_test.sh
+END
+bvsgt.smt2
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/stp-fast-prover/code/!svn/ver/846/trunk/stp/unit_test/bvsgt.smt2
+END
+bvshift.smt2
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/stp-fast-prover/code/!svn/ver/846/trunk/stp/unit_test/bvshift.smt2
+END
+bvnor.smt2
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/stp-fast-prover/code/!svn/ver/846/trunk/stp/unit_test/bvnor.smt2
+END
+bvsge.smt2
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/stp-fast-prover/code/!svn/ver/846/trunk/stp/unit_test/bvsge.smt2
+END

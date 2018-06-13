@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/stp-fast-prover/code/!svn/ver/691/trunk/stp/src/sat/cryptominisat2/mtl
+END
+Heap.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/stp-fast-prover/code/!svn/ver/691/trunk/stp/src/sat/cryptominisat2/mtl/Heap.h
+END
+Map.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/stp-fast-prover/code/!svn/ver/676/trunk/stp/src/sat/cryptominisat2/mtl/Map.h
+END
+Vec.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/stp-fast-prover/code/!svn/ver/691/trunk/stp/src/sat/cryptominisat2/mtl/Vec.h
+END
+BasicHeap.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/stp-fast-prover/code/!svn/ver/676/trunk/stp/src/sat/cryptominisat2/mtl/BasicHeap.h
+END
+BoxedVec.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/stp-fast-prover/code/!svn/ver/676/trunk/stp/src/sat/cryptominisat2/mtl/BoxedVec.h
+END
+Alg.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/stp-fast-prover/code/!svn/ver/676/trunk/stp/src/sat/cryptominisat2/mtl/Alg.h
+END
+Queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/stp-fast-prover/code/!svn/ver/676/trunk/stp/src/sat/cryptominisat2/mtl/Queue.h
+END

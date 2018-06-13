@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/stp-fast-prover/code/!svn/ver/913/trunk/stp/src/absrefine_counterexample
+END
+CounterExample.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/stp-fast-prover/code/!svn/ver/913/trunk/stp/src/absrefine_counterexample/CounterExample.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/stp-fast-prover/code/!svn/ver/913/trunk/stp/src/absrefine_counterexample/Makefile
+END
+AbsRefine_CounterExample.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/stp-fast-prover/code/!svn/ver/913/trunk/stp/src/absrefine_counterexample/AbsRefine_CounterExample.h
+END
+AbstractionRefinement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/stp-fast-prover/code/!svn/ver/913/trunk/stp/src/absrefine_counterexample/AbstractionRefinement.cpp
+END

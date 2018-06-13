@@ -1,0 +1,329 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/stp-fast-prover/code/!svn/ver/925/trunk/stp/src/sat/cryptominisat2
+END
+CSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/stp-fast-prover/code/!svn/ver/907/trunk/stp/src/sat/cryptominisat2/CSet.h
+END
+XorSubsumer.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/stp-fast-prover/code/!svn/ver/907/trunk/stp/src/sat/cryptominisat2/XorSubsumer.h
+END
+PartHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/stp-fast-prover/code/!svn/ver/911/trunk/stp/src/sat/cryptominisat2/PartHandler.cpp
+END
+XorFinder.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/stp-fast-prover/code/!svn/ver/731/trunk/stp/src/sat/cryptominisat2/XorFinder.h
+END
+VarReplacer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/stp-fast-prover/code/!svn/ver/912/trunk/stp/src/sat/cryptominisat2/VarReplacer.cpp
+END
+RestartTypeChooser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/stp-fast-prover/code/!svn/ver/688/trunk/stp/src/sat/cryptominisat2/RestartTypeChooser.cpp
+END
+Subsumer.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/stp-fast-prover/code/!svn/ver/907/trunk/stp/src/sat/cryptominisat2/Subsumer.h
+END
+ClauseCleaner.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/stp-fast-prover/code/!svn/ver/813/trunk/stp/src/sat/cryptominisat2/ClauseCleaner.h
+END
+UselessBinRemover.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/stp-fast-prover/code/!svn/ver/907/trunk/stp/src/sat/cryptominisat2/UselessBinRemover.cpp
+END
+Logger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/stp-fast-prover/code/!svn/ver/813/trunk/stp/src/sat/cryptominisat2/Logger.cpp
+END
+Gaussian.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/stp-fast-prover/code/!svn/ver/907/trunk/stp/src/sat/cryptominisat2/Gaussian.h
+END
+Solver.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/stp-fast-prover/code/!svn/ver/907/trunk/stp/src/sat/cryptominisat2/Solver.h
+END
+FailedVarSearcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/stp-fast-prover/code/!svn/ver/907/trunk/stp/src/sat/cryptominisat2/FailedVarSearcher.h
+END
+PackedMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/stp-fast-prover/code/!svn/ver/676/trunk/stp/src/sat/cryptominisat2/PackedMatrix.h
+END
+Clause.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/stp-fast-prover/code/!svn/ver/920/trunk/stp/src/sat/cryptominisat2/Clause.h
+END
+StateSaver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/stp-fast-prover/code/!svn/ver/812/trunk/stp/src/sat/cryptominisat2/StateSaver.cpp
+END
+BitArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/stp-fast-prover/code/!svn/ver/813/trunk/stp/src/sat/cryptominisat2/BitArray.h
+END
+ClauseAllocator.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/stp-fast-prover/code/!svn/ver/908/trunk/stp/src/sat/cryptominisat2/ClauseAllocator.h
+END
+OnlyNonLearntBins.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/stp-fast-prover/code/!svn/ver/907/trunk/stp/src/sat/cryptominisat2/OnlyNonLearntBins.h
+END
+PackedRow.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/stp-fast-prover/code/!svn/ver/676/trunk/stp/src/sat/cryptominisat2/PackedRow.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/stp-fast-prover/code/!svn/ver/925/trunk/stp/src/sat/cryptominisat2/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/stp-fast-prover/code/!svn/ver/915/trunk/stp/src/sat/cryptominisat2/Makefile
+END
+MatrixFinder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/stp-fast-prover/code/!svn/ver/813/trunk/stp/src/sat/cryptominisat2/MatrixFinder.cpp
+END
+XorSubsumer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/stp-fast-prover/code/!svn/ver/907/trunk/stp/src/sat/cryptominisat2/XorSubsumer.cpp
+END
+XorFinder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/stp-fast-prover/code/!svn/ver/907/trunk/stp/src/sat/cryptominisat2/XorFinder.cpp
+END
+MersenneTwister.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/stp-fast-prover/code/!svn/ver/813/trunk/stp/src/sat/cryptominisat2/MersenneTwister.h
+END
+PartFinder.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/stp-fast-prover/code/!svn/ver/676/trunk/stp/src/sat/cryptominisat2/PartFinder.h
+END
+SolverTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/stp-fast-prover/code/!svn/ver/907/trunk/stp/src/sat/cryptominisat2/SolverTypes.h
+END
+VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/stp-fast-prover/code/!svn/ver/920/trunk/stp/src/sat/cryptominisat2/VERSION
+END
+GaussianConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/stp-fast-prover/code/!svn/ver/813/trunk/stp/src/sat/cryptominisat2/GaussianConfig.h
+END
+Subsumer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/stp-fast-prover/code/!svn/ver/924/trunk/stp/src/sat/cryptominisat2/Subsumer.cpp
+END
+ClauseCleaner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/stp-fast-prover/code/!svn/ver/920/trunk/stp/src/sat/cryptominisat2/ClauseCleaner.cpp
+END
+FindUndef.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/stp-fast-prover/code/!svn/ver/813/trunk/stp/src/sat/cryptominisat2/FindUndef.h
+END
+PartHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/stp-fast-prover/code/!svn/ver/907/trunk/stp/src/sat/cryptominisat2/PartHandler.h
+END
+FailedVarSearcher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/stp-fast-prover/code/!svn/ver/907/trunk/stp/src/sat/cryptominisat2/FailedVarSearcher.cpp
+END
+Gaussian.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/stp-fast-prover/code/!svn/ver/907/trunk/stp/src/sat/cryptominisat2/Gaussian.cpp
+END
+Solver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/stp-fast-prover/code/!svn/ver/920/trunk/stp/src/sat/cryptominisat2/Solver.cpp
+END
+VarReplacer.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/stp-fast-prover/code/!svn/ver/907/trunk/stp/src/sat/cryptominisat2/VarReplacer.h
+END
+ClauseAllocator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/stp-fast-prover/code/!svn/ver/920/trunk/stp/src/sat/cryptominisat2/ClauseAllocator.cpp
+END
+OnlyNonLearntBins.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/stp-fast-prover/code/!svn/ver/907/trunk/stp/src/sat/cryptominisat2/OnlyNonLearntBins.cpp
+END
+RestartTypeChooser.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/stp-fast-prover/code/!svn/ver/676/trunk/stp/src/sat/cryptominisat2/RestartTypeChooser.h
+END
+PackedRow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/stp-fast-prover/code/!svn/ver/676/trunk/stp/src/sat/cryptominisat2/PackedRow.cpp
+END
+DoublePackedRow.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/stp-fast-prover/code/!svn/ver/813/trunk/stp/src/sat/cryptominisat2/DoublePackedRow.h
+END
+UselessBinRemover.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/stp-fast-prover/code/!svn/ver/907/trunk/stp/src/sat/cryptominisat2/UselessBinRemover.h
+END
+constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/stp-fast-prover/code/!svn/ver/907/trunk/stp/src/sat/cryptominisat2/constants.h
+END
+Main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/stp-fast-prover/code/!svn/ver/925/trunk/stp/src/sat/cryptominisat2/Main.cpp
+END
+Logger.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/stp-fast-prover/code/!svn/ver/813/trunk/stp/src/sat/cryptominisat2/Logger.h
+END
+StateSaver.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/stp-fast-prover/code/!svn/ver/812/trunk/stp/src/sat/cryptominisat2/StateSaver.h
+END
+XSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/stp-fast-prover/code/!svn/ver/907/trunk/stp/src/sat/cryptominisat2/XSet.h
+END
+BoundedQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/stp-fast-prover/code/!svn/ver/813/trunk/stp/src/sat/cryptominisat2/BoundedQueue.h
+END
+PartFinder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/stp-fast-prover/code/!svn/ver/907/trunk/stp/src/sat/cryptominisat2/PartFinder.cpp
+END
+MatrixFinder.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/stp-fast-prover/code/!svn/ver/813/trunk/stp/src/sat/cryptominisat2/MatrixFinder.h
+END
+time_mem.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/stp-fast-prover/code/!svn/ver/684/trunk/stp/src/sat/cryptominisat2/time_mem.h
+END
+FindUndef.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/stp-fast-prover/code/!svn/ver/813/trunk/stp/src/sat/cryptominisat2/FindUndef.cpp
+END

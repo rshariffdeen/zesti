@@ -1,0 +1,55 @@
+10
+
+dir
+940
+https://svn.code.sf.net/p/stp-fast-prover/code/trunk/stp/tests
+https://svn.code.sf.net/p/stp-fast-prover/code
+
+
+
+2010-06-24T14:25:59.847899Z
+877
+trevor_hansen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e59a4935-1847-0410-ae03-e826735625c1
+
+sample-tests
+dir
+
+sample-smt-tests
+dir
+
+for-tests
+dir
+
+bio-tests
+dir
+
+c-api-tests
+dir
+
+misc-tests
+dir
+
+big-test
+dir
+
+crypto-tests
+dir
+
+generated_tests
+dir
+

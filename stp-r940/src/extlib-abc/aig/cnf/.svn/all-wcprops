@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/stp-fast-prover/code/!svn/ver/668/trunk/stp/src/extlib-abc/aig/cnf
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/stp-fast-prover/code/!svn/ver/668/trunk/stp/src/extlib-abc/aig/cnf/Makefile
+END
+cnfPost.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/aig/cnf/cnfPost.c
+END
+cnfCore.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/aig/cnf/cnfCore.c
+END
+cnfData.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/aig/cnf/cnfData.c
+END
+module.make
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/aig/cnf/module.make
+END
+cnfWrite.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/aig/cnf/cnfWrite.c
+END
+cnfCut.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/aig/cnf/cnfCut.c
+END
+cnfMan.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/stp-fast-prover/code/!svn/ver/636/trunk/stp/src/extlib-abc/aig/cnf/cnfMan.c
+END
+cnfMap.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/aig/cnf/cnfMap.c
+END
+cnfUtil.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/aig/cnf/cnfUtil.c
+END
+cnf_.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/stp-fast-prover/code/!svn/ver/625/trunk/stp/src/extlib-abc/aig/cnf/cnf_.c
+END

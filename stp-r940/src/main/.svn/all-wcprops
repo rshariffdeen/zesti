@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/stp-fast-prover/code/!svn/ver/935/trunk/stp/src/main
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/stp-fast-prover/code/!svn/ver/905/trunk/stp/src/main/Makefile
+END
+Globals.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/stp-fast-prover/code/!svn/ver/662/trunk/stp/src/main/Globals.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/stp-fast-prover/code/!svn/ver/935/trunk/stp/src/main/main.cpp
+END
+Globals.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/stp-fast-prover/code/!svn/ver/684/trunk/stp/src/main/Globals.h
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/stp-fast-prover/code/!svn/ver/427/trunk/stp/src/sat/mtl
+END
+Heap.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/stp-fast-prover/code/!svn/ver/359/trunk/stp/src/sat/mtl/Heap.h
+END
+Map.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/stp-fast-prover/code/!svn/ver/359/trunk/stp/src/sat/mtl/Map.h
+END
+Vec.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/stp-fast-prover/code/!svn/ver/359/trunk/stp/src/sat/mtl/Vec.h
+END
+BasicHeap.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/stp-fast-prover/code/!svn/ver/359/trunk/stp/src/sat/mtl/BasicHeap.h
+END
+BoxedVec.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/stp-fast-prover/code/!svn/ver/359/trunk/stp/src/sat/mtl/BoxedVec.h
+END
+Alg.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/stp-fast-prover/code/!svn/ver/359/trunk/stp/src/sat/mtl/Alg.h
+END
+Queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/stp-fast-prover/code/!svn/ver/359/trunk/stp/src/sat/mtl/Queue.h
+END
+Sort.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/stp-fast-prover/code/!svn/ver/359/trunk/stp/src/sat/mtl/Sort.h
+END

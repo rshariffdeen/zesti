@@ -1,0 +1,33 @@
+K 10
+svn:ignore
+V 268
+parsePL.cpp
+parsePL_defs.h
+y.tab.c
+y.tab.h
+lexPL.cpp
+y.output
+parseSMT.cpp
+parseSMT_defs.h
+parseCVC.cpp
+lexSMT.cpp
+parseCVC_defs.h
+lexCVC.cpp
+smt.tab.c
+smt.tab.h
+cvc.tab.c
+smt.output
+cvc.tab.h
+cvc.output
+smt2.tab.h
+smt2.output
+parse2SMT_defs.h
+lex2SMT.cpp
+smt2.tab.c
+
+
+K 13
+svn:mergeinfo
+V 0
+
+END

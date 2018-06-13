@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/stp-fast-prover/code/!svn/ver/405/trunk/stp/tests/misc-tests
+END
+no-query.cvc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/stp-fast-prover/code/!svn/ver/399/trunk/stp/tests/misc-tests/no-query.cvc
+END
+cryptominisat-bug.cvc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/stp-fast-prover/code/!svn/ver/405/trunk/stp/tests/misc-tests/cryptominisat-bug.cvc
+END

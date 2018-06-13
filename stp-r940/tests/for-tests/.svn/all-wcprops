@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/stp-fast-prover/code/!svn/ver/232/trunk/stp/tests/for-tests
+END
+for-boolean.cvc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/stp-fast-prover/code/!svn/ver/222/trunk/stp/tests/for-tests/for-boolean.cvc
+END
+for-boolean2.cvc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/stp-fast-prover/code/!svn/ver/232/trunk/stp/tests/for-tests/for-boolean2.cvc
+END
+for1.cvc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/stp-fast-prover/code/!svn/ver/222/trunk/stp/tests/for-tests/for1.cvc
+END
+for2.cvc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/stp-fast-prover/code/!svn/ver/222/trunk/stp/tests/for-tests/for2.cvc
+END
+multiple-for.cvc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/stp-fast-prover/code/!svn/ver/223/trunk/stp/tests/for-tests/multiple-for.cvc
+END

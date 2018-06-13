@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/stp-fast-prover/code/!svn/ver/936/trunk/stp/src/to-sat
+END
+SimpBool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/stp-fast-prover/code/!svn/ver/901/trunk/stp/src/to-sat/SimpBool.cpp
+END
+ToSATBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/stp-fast-prover/code/!svn/ver/905/trunk/stp/src/to-sat/ToSATBase.cpp
+END
+BBNodeManagerASTNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/stp-fast-prover/code/!svn/ver/913/trunk/stp/src/to-sat/BBNodeManagerASTNode.h
+END
+ClauseList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/stp-fast-prover/code/!svn/ver/730/trunk/stp/src/to-sat/ClauseList.cpp
+END
+ToCNF.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/stp-fast-prover/code/!svn/ver/915/trunk/stp/src/to-sat/ToCNF.cpp
+END
+ToSAT.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/stp-fast-prover/code/!svn/ver/926/trunk/stp/src/to-sat/ToSAT.cpp
+END
+ToSATBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/stp-fast-prover/code/!svn/ver/913/trunk/stp/src/to-sat/ToSATBase.h
+END
+BitBlaster.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/stp-fast-prover/code/!svn/ver/932/trunk/stp/src/to-sat/BitBlaster.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/stp-fast-prover/code/!svn/ver/932/trunk/stp/src/to-sat/Makefile
+END
+ClauseList.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/stp-fast-prover/code/!svn/ver/730/trunk/stp/src/to-sat/ClauseList.h
+END
+ToCNF.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/stp-fast-prover/code/!svn/ver/758/trunk/stp/src/to-sat/ToCNF.h
+END
+ToSAT.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/stp-fast-prover/code/!svn/ver/913/trunk/stp/src/to-sat/ToSAT.h
+END
+BitBlaster.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/stp-fast-prover/code/!svn/ver/926/trunk/stp/src/to-sat/BitBlaster.h
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/stp-fast-prover/code/!svn/ver/870/trunk/stp/src/sat/simp
+END
+SimpSolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/stp-fast-prover/code/!svn/ver/515/trunk/stp/src/sat/simp/SimpSolver.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/stp-fast-prover/code/!svn/ver/837/trunk/stp/src/sat/simp/Makefile
+END
+SimpSolver.C
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/stp-fast-prover/code/!svn/ver/870/trunk/stp/src/sat/simp/SimpSolver.C
+END
