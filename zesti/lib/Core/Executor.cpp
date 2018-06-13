@@ -24,6 +24,7 @@
 #include "StatsTracker.h"
 #include "TimingSolver.h"
 #include "UserSearcher.h"
+
 #include "../Solver/SolverStats.h"
 
 #include "klee/ExecutionState.h"
@@ -80,7 +81,7 @@
 #include <sstream>
 #include <vector>
 #include <string>
-
+#include <unistd.h>
 #include <sys/mman.h>
 
 #include <errno.h>
@@ -3924,7 +3925,7 @@ bool Executor::getSymbolicSolution(const ExecutionState &state,
       }
       std::vector< ref<Expr> >::const_iterator pi = 
         mo->cexPreferences.begin(), pie = mo->cexPreferences.end();
-      int i = 0;
+      //int i = 0;
       for (; pi != pie; ++pi, ++i) {
         //if (0 == i % 10)
           //std::cerr << i << std::endl;
