@@ -20,7 +20,7 @@ RUN DEBIAN_FRONTEND=noninteractive apt-get install -y  --no-install-recommends -
     python \
     subversion 
 
-RUN apt-get install -y --force-yes 
+RUN apt-get install -y --force-yes  \
 	build-essential \
 	libc6-dev-i386
     
