@@ -1,10 +1,6 @@
 FROM ubuntu:14.04
 MAINTAINER Ridwan Shariffdeen <ridwan@comp.nus.edu.sg>
 
-# preparing environment
-RUN mkdir /zesti
-COPY llvm-gcc4.2 /opt/llvm-gcc4.2
-ENV PATH=$PATH:/opt/llvm-gcc4.2/bin/
 
 RUN apt-get update
 RUN DEBIAN_FRONTEND=noninteractive apt-get install -y  --no-install-recommends --force-yes \
@@ -26,8 +22,13 @@ RUN apt-get install -y --force-yes  \
 	libc6-dev-i386
     
 # building llvm-2.9
-COPY llvm-2.9 /opt/llvm-2.9
-RUN cd /opt/llvm-2.9; ./configure --enable-optimized --enable-assertions; make
+COPY llvm-2.9 /opt/llvm
+RUN cd /opt/llvm; ./configure --enable-optimized --enable-assertions; make
+
+# building clang
+COPY clang-2.9 /opt/llvm/tools/clang
+RUN /opt/llvm/tools/clang && make install
+
 
 # building stp
 COPY stp-r940 /opt/stp-r940
