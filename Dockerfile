@@ -4,9 +4,6 @@ MAINTAINER Ridwan Shariffdeen <ridwan@comp.nus.edu.sg>
 # preparing environment
 RUN mkdir /zesti
 
-RUN deb http://llvm.org/apt/trusty/ llvm-toolchain-trusty-3.4 main  &&  \
-    deb-src http://llvm.org/apt/trusty/ llvm-toolchain-trusty-3.4 main
-
 RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get install -y  --no-install-recommends --force-yes \
     bc	\
     bison   \
@@ -22,8 +19,11 @@ RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get install -y  --no-in
     subversion  \
     wget
 
-RUN wget -O - http://llvm.org/apt/llvm-snapshot.gpg.key|sudo apt-key add - && \
-    apt-get update && apt-get install -y --force-yes  \
+RUN echo "deb http://llvm.org/apt/trusty/ llvm-toolchain-trusty-3.4 main" >> /etc/apt/sources.list  &&  \
+    echo "deb-src http://llvm.org/apt/trusty/ llvm-toolchain-trusty-3.4 main" >> /etc/apt/sources.list && \
+    wget -O - http://llvm.org/apt/llvm-snapshot.gpg.key|sudo apt-key add -  
+
+RUN apt-get update && apt-get install -y --force-yes  \
         build-essential \
         clang-3.4  \
         libc6-dev-i386 \
