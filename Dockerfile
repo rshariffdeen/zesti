@@ -18,6 +18,7 @@ RUN DEBIAN_FRONTEND=noninteractive apt-get install -y  --no-install-recommends -
     libncurses5-dev \
     make \
     python \
+    python-pip \
     subversion 
 
 RUN apt-get install -y --force-yes  \
