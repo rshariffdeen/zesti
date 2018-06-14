@@ -3,11 +3,11 @@ MAINTAINER Ridwan Shariffdeen <ridwan@comp.nus.edu.sg>
 
 # preparing environment
 RUN mkdir /zesti
-COPY llvm-gcc4.2 /opt/llvm-gcc4.2
-ENV PATH=$PATH:/opt/llvm-gcc4.2/bin/
 
-RUN apt-get update
-RUN DEBIAN_FRONTEND=noninteractive apt-get install -y  --no-install-recommends --force-yes \
+RUN deb http://llvm.org/apt/trusty/ llvm-toolchain-trusty-3.4 main  &&  \
+    deb-src http://llvm.org/apt/trusty/ llvm-toolchain-trusty-3.4 main
+
+RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get install -y  --no-install-recommends --force-yes \
     bc	\
     bison   \
     curl    \
@@ -19,11 +19,17 @@ RUN DEBIAN_FRONTEND=noninteractive apt-get install -y  --no-install-recommends -
     make \
     python \
     python-pip \
-    subversion 
+    subversion  \
+    wget
 
-RUN apt-get install -y --force-yes  \
-	build-essential \
-	libc6-dev-i386
+RUN wget -O - http://llvm.org/apt/llvm-snapshot.gpg.key|sudo apt-key add - && \
+    apt-get update && apt-get install -y --force-yes  \
+        build-essential \
+        clang-3.4  \
+        libc6-dev-i386 \
+        llvm-3.4 \ 
+        llvm-3.4-dev \ 
+        llvm-3.4-tools 	
     
 # building llvm-2.9
 COPY llvm-2.9 /opt/llvm-2.9
