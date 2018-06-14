@@ -19,6 +19,7 @@ RUN DEBIAN_FRONTEND=noninteractive apt-get install -y  --no-install-recommends -
 
 RUN apt-get install -y --force-yes  \
 	build-essential \
+    groff-base \
 	libc6-dev-i386
     
 # building llvm-2.9
@@ -27,7 +28,7 @@ RUN cd /opt/llvm; ./configure --enable-optimized --enable-assertions; make
 
 # building clang
 COPY clang-2.9 /opt/llvm/tools/clang
-RUN /opt/llvm/tools/clang && make install
+RUN cd /opt/llvm/tools/clang && make install
 
 
 # building stp
