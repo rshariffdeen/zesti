@@ -1,11 +1,6 @@
 FROM ubuntu:14.04
 MAINTAINER Ridwan Shariffdeen <ridwan@comp.nus.edu.sg>
 
-# preparing environment
-RUN mkdir /zesti
-COPY llvm-gcc4.2 /opt/llvm-gcc4.2
-ENV PATH=$PATH:/opt/llvm-gcc4.2/bin/
-
 RUN apt-get update
 RUN DEBIAN_FRONTEND=noninteractive apt-get install -y  --no-install-recommends --force-yes \
     bc	\
