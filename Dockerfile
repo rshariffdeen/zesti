@@ -27,7 +27,7 @@ RUN cd /opt/llvm; ./configure --enable-optimized --enable-assertions; make
 # building llvm-gcc-4.2
 RUN mkdir /opt/llvm/tools/llvm-gcc
 COPY llvm-gcc-4.2 /opt/llvm/tools/llvm-gcc/llvm-gcc-4.2
-cd /opt/llvm/tools/llvm-gcc/llvm-gcc-4.2 && ./configure
+RUN cd /opt/llvm/tools/llvm-gcc/llvm-gcc-4.2 && ./configure
 ENV BUILDOPTIONS=LLVM_VERSION_INFO=2.9
 RUN cd /opt/llvm/tools/llvm-gcc && mkdir obj && mkdir install && cd obj && ../llvm-gcc-4.2/configure --prefix=`pwd`/../install --program-prefix=llvm- \
     --enable-llvm=$LLVMOBJDIR --enable-languages=c,c++$EXTRALANGS $TARGETOPTIONS --disable-multilib && make -j8 $BUILDOPTIONS && make -j8 install
