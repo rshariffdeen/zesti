@@ -22,7 +22,7 @@ RUN apt-get install -y --force-yes  \
     
 # building llvm-2.9
 COPY llvm-2.9 /opt/llvm
-RUN cd /opt/llvm; ./configure --enable-optimized --enable-assertions; make
+RUN cd /opt/llvm; ./configure --enable-optimized --enable-assertions; make -j install
 
 # building llvm-gcc-4.2
 RUN mkdir /opt/llvm/tools/llvm-gcc
