@@ -28,7 +28,7 @@ RUN cd /opt/llvm; ./configure --enable-optimized --enable-assertions; make -j8; 
 
 # building clang
 COPY clang-2.9 /opt/llvm/tools/clang
-RUN cd /opt/llvm/tools/clang && make -j8 install
+RUN ln -s /usr/lib/x86_64-linux-gnu /usr/lib64; cd /opt/llvm/tools/clang && make -j8 install
 
 
 # building stp
@@ -37,12 +37,11 @@ RUN cd /opt/stp-r940; ./scripts/configure --with-prefix=`pwd`/install --with-cry
 
 # building uclibc
 COPY klee-uclibc /opt/klee-uclibc
-ENV PATH=$PATH:/opt/llvm-2.9/Release+Asserts/bin/
 RUN cd /opt/klee-uclibc; ./configure -l; make -j4
 
 # building zesti
 COPY zesti /opt/zesti
-RUN cd /opt/zesti; ./configure --with-llvm=/opt/llvm-2.9 --with-stp=/opt/stp-r940/install --with-uclibc=/opt/klee-uclibc --enable-posix-runtime; make ENABLE_OPTIMIZED=1 -j4 install
+RUN cd /opt/zesti; ./configure --with-llvm=/opt/llvm --with-stp=/opt/stp-r940/install --with-uclibc=/opt/klee-uclibc --enable-posix-runtime; make ENABLE_OPTIMIZED=1 -j4 install
 
 # test zesti
 RUN cd /opt/zesti; make unittests;
