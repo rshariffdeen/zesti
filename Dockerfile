@@ -31,7 +31,7 @@ COPY llvm-gcc-4.2 /opt/llvm/tools/llvm-gcc/llvm-gcc-4.2
 RUN cd /opt/llvm/tools/llvm-gcc/llvm-gcc-4.2 && ./configure
 ENV BUILDOPTIONS=LLVM_VERSION_INFO=2.9
 RUN cd /opt/llvm/tools/llvm-gcc && mkdir obj && mkdir install && cd obj && ../llvm-gcc-4.2/configure --prefix=`pwd`/../install --program-prefix=llvm- \
-    --enable-llvm=/opt/llvm --enable-languages=c,c++$EXTRALANGS $TARGETOPTIONS --disable-multilib && make -j4 $BUILDOPTIONS && make -j4 install
+    --enable-llvm=/opt/llvm --enable-languages=c,c++$EXTRALANGS $TARGETOPTIONS && make -j4 $BUILDOPTIONS && make -j4 install
 
 # building stp
 COPY stp-r940 /opt/stp-r940
@@ -51,8 +51,9 @@ RUN cd /opt/zesti; make unittests;
 
 # building clang
 COPY clang-2.9 /opt/llvm/tools/clang
-RUN cd /opt/llvm; ./configure --enable-optimized --enable-assertions;
-RUN ln -s /usr/lib/x86_64-linux-gnu /usr/lib64; cd /opt/llvm/tools/clang && make -j8 install
+RUN cd /opt/llvm; ./configure --enable-optimized --enable-assertions; make -j4
+RUN cd /opt/llvm/tools/clang && make -j8 install
+RUN ln -s /usr/lib/gcc/x86_64-linux-gnu/4.8.4/* /lib64
 
 # clean up
 RUN DEBIAN_FRONTEND=noninteractive apt-get -y autoremove && apt-get clean && rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
