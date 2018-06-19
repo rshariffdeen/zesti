@@ -31,7 +31,7 @@ COPY llvm-gcc-4.2 /opt/llvm/tools/llvm-gcc/llvm-gcc-4.2
 RUN cd /opt/llvm/tools/llvm-gcc/llvm-gcc-4.2 && ./configure
 ENV BUILDOPTIONS=LLVM_VERSION_INFO=2.9
 RUN cd /opt/llvm/tools/llvm-gcc && mkdir obj && mkdir install && cd obj && ../llvm-gcc-4.2/configure --prefix=`pwd`/../install --program-prefix=llvm- \
-    --enable-llvm=/opt/llvm --enable-languages=c,c++$EXTRALANGS $TARGETOPTIONS && make -j4 $BUILDOPTIONS && make -j4 install
+    --enable-llvm=/opt/llvm --disable-multilib --enable-languages=c,c++$EXTRALANGS $TARGETOPTIONS && make -j4 $BUILDOPTIONS && make -j4 install
 
 # building stp
 COPY stp-r940 /opt/stp-r940
