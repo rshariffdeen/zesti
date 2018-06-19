@@ -33,10 +33,6 @@ ENV BUILDOPTIONS=LLVM_VERSION_INFO=2.9
 RUN cd /opt/llvm/tools/llvm-gcc && mkdir obj && mkdir install && cd obj && ../llvm-gcc-4.2/configure --prefix=`pwd`/../install --program-prefix=llvm- \
     --enable-llvm=/opt/llvm --enable-languages=c,c++$EXTRALANGS $TARGETOPTIONS --disable-multilib && make -j4 $BUILDOPTIONS && make -j4 install
 
-# building clang
-COPY clang-2.9 /opt/llvm/tools/clang
-RUN ln -s /usr/lib/x86_64-linux-gnu /usr/lib64; cd /opt/llvm/tools/clang && make -j8 install
-
 # building stp
 COPY stp-r940 /opt/stp-r940
 RUN cd /opt/stp-r940; ./scripts/configure --with-prefix=`pwd`/install --with-cryptominisat2; make OPTIMIZE=-O2 CFLAGS_M32= install; ulimit -s unlimited
@@ -52,6 +48,11 @@ RUN cd /opt/zesti; ./configure --with-llvm=/opt/llvm --with-stp=/opt/stp-r940/in
 
 # test zesti
 RUN cd /opt/zesti; make unittests;
+
+# building clang
+COPY clang-2.9 /opt/llvm/tools/clang
+RUN cd /opt/llvm; ./configure --enable-optimized --enable-assertions;
+RUN ln -s /usr/lib/x86_64-linux-gnu /usr/lib64; cd /opt/llvm/tools/clang && make -j8 install
 
 # clean up
 RUN DEBIAN_FRONTEND=noninteractive apt-get -y autoremove && apt-get clean && rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
