@@ -29,7 +29,7 @@ RUN cd /opt/llvm; ./configure --enable-optimized --enable-assertions; make -j8; 
 # building clang
 COPY clang-2.9 /opt/llvm/tools/clang
 RUN ln -s /usr/lib/x86_64-linux-gnu /usr/lib64; cd /opt/llvm/tools/clang && make -j8 install
-
+RUN ln -s /usr/lib/gcc/x86_64-linux-gnu/4.8.4/* /lib64
 
 # building stp
 COPY stp-r940 /opt/stp-r940
